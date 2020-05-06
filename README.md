@@ -1,6 +1,6 @@
 # lib_asm
 
-A small library, coded in [ASM](https://en.wikipedia.org/wiki/Assembly_language). (macOS)
+A small library, coded in [ASM](https://en.wikipedia.org/wiki/Assembly_language). __(macOS)__
 
 ![Image description](https://i.ibb.co/6YtskVs/Capture-d-cran-de-2020-05-05-18-23-08-1.png)
 
